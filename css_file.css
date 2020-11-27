@@ -1,0 +1,44 @@
+
+footer{
+     border-top: 1px solid grey;
+     padding: 10px; 
+     text-align:center;
+}
+
+.jumbotron{
+    background-color: lightskyblue;
+    border: solid;
+}
+
+.row{
+  margin:20px;  
+}
+
+p{
+  font-size: 22px;
+}
+
+h3{
+    font-size:40px;
+    text-decoration:underline ;
+}
+
+ul{
+    font-size:20px;
+}
+
+img{
+  display: inline-block;
+  width:450px;
+  height:300px;
+  border:solid black;
+  padding:10px;
+}
+
+.col-sm{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
